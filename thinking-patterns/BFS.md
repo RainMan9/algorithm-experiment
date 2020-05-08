@@ -67,7 +67,7 @@ int BFS(Node start, Node target) {
 
 先来个简单的问题实践一下 BFS 框架吧，判断一棵二叉树的**最小**高度，这也是 LeetCode 第 111 题，看一下题目： 
 
- ![扫雷](../pictures/bfs/leetcode-111.jpg)
+ <img src="../pictures/bfs/leetcode-111.jpg" alt="二叉树的最小深度" style="zoom:50%;" />
 
 怎么套到 BFS 的框架里呢？首先明确一下起点 `start` 和终点 `target` 是什么，怎么判断到达了终点？
 

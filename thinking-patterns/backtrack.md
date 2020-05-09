@@ -1,3 +1,7 @@
+致谢：labuladong  <https://github.com/labuladong/fucking-algorithm>
+
+整理自：labuladong的算法小抄 https://labuladong.gitbook.io/algo/suan-fa-si-wei-xi-lie/hui-su-suan-fa-xiang-jie-xiu-ding-ban
+
 废话不多说，直接上回溯算法框架。**解决一个回溯问题，实际上就是一个决策树的遍历过程**。你只需要思考 3 个问题：
 
 1、路径：也就是已经做出的选择。

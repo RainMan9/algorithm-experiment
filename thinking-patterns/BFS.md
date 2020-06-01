@@ -80,7 +80,7 @@ if (cur.left == null && cur.right == null)
 
 那么，按照我们上述的框架稍加改造来写解法即可：
 
-```
+```java
 int minDepth(TreeNode root) {
     if (root == null) return 0;
     Queue<TreeNode> q = new LinkedList<>();
